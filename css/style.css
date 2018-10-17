@@ -1,4 +1,8 @@
+body{
+	background: #cce6ff;
+}
+
 .uno{
-	height: auto;
+	height: 150px;
 	width: auto;
 }
